@@ -1,2 +1,2 @@
 # vueConfigDemo
-用wepack4配置一个vue环境，并用该环境实现一个vue底层原理的小demo
+用wepack4配置一个vue环境.
